@@ -1,1 +1,1 @@
-# metaverse-frontend
+# AI_Metaverse
